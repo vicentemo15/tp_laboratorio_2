@@ -1,0 +1,14 @@
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\Entidades.exe
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\bin\Debug\Entidades.exe.config
+C:\Users\vicen\Documents\UTN\2DO CUATRIMESTRE\Programacion II\TP1\Montilla.Vicente\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
