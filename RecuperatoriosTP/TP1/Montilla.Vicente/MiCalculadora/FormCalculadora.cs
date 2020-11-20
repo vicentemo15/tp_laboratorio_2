@@ -14,7 +14,7 @@ namespace MiCalculadora
             InitializeComponent();
         }
 
-        //CONSTRUCTOR DE FORMULARIO, CARGA DE ITEMS DE COMBOBOX
+        //CONSTRUCTOR DE FORMULARIO
         private void FormCalculadora_Load(object sender, EventArgs e)
         {
             this.Limpiar();
