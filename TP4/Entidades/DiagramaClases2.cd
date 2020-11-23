@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Producto">
+    <Position X="3.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAACEgAgAAAAAAAAAABAAAAAAAAAAAiA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Congelado">
+    <Position X="0.5" Y="4.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Congelado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Bazar">
+    <Position X="6.75" Y="4.5" Width="5.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Bazar.EMaterial">
+        <TypeIdentifier>
+          <NewMemberFileName>Bazar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Bazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Comercio">
+    <Position X="9" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgEAAAABAEQAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Comercio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
